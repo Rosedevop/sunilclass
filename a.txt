@@ -1,1 +1,2 @@
 line1 on master branch
+line2 on master branch
